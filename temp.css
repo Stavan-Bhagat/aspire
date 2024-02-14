@@ -1,0 +1,47 @@
+#section2{
+    height: 60vh;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-line{
+    border-left: 1px solid rgb(80, 80, 80);
+    padding-left: 10%;
+}
+
+#membership {
+    color: #FFFFFF;
+    background-color: #F13A11;
+    border: #F13A11;
+    border-radius: 1%;
+width: 100%;
+
+    
+}
+
+#membership:hover {
+    background-color: #FFFFFF;
+    color: #F13A11;
+
+}
+
+h1{
+   font-family:sans-serif;
+   font-weight: bolder;
+}
+#left_container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10%;
+}
+#right_container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    color: #666262;
+}
